@@ -1,6 +1,6 @@
 # learn_tfcb
 # Week 1
-[[Week1](week1/README.md)](https://github.com/munnep/learn_tfcb/blob/main/week1/README.md)
+[[Week1](week1/README.md)]
 
 ## What you liked ?
 Going over the material and sometimes hit something and be like "Oh now I get it"
@@ -13,7 +13,7 @@ Same as from the tickets last few weeks. Use locals more often in your code to s
 
 # learn_tfcb
 # Week 2
-[[Week2](week2/README.md)](https://github.com/munnep/learn_tfcb/blob/main/week2/README.md)
+[[Week2](week2/README.md)]
 
 ## What you liked ?
 Really liked the presentation of Terraform Cloud by the 2 Hashicorp engineers. They explained why Terraform Cloud exists. For small teams and easy to use and then work with your colleagues on Terraform to use it. 
