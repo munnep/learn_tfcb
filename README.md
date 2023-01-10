@@ -25,3 +25,16 @@ Realized again to create docker images and start containers using a docker provi
 
 ## What was wow ?
 This week nothing stood out. 
+
+# learn_tfcb
+# Week 3
+[Week2](week3/README.md)
+
+## What you liked ?
+This was a week with some exercises I didn't do before. The kubernetes, vault, consul exercise with google cloud was challenging. Turned out eventually the code used is to old to successfully complete the exercise. This will be solved by the education team
+
+## What was new to you ?
+Terraform cloud and Vault exercise was great to see. How vault created temporary tokens in Cloud to use. Hadn't seen it before. 
+
+## What was wow ?
+Don't expect the exercises will work. They could fail because of new versions or changes in providers or the clouds itself.  
