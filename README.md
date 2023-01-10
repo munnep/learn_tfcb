@@ -28,7 +28,7 @@ This week nothing stood out.
 
 # learn_tfcb
 # Week 3
-[Week2](week3/README.md)
+[Week3](week3/README.md)
 
 ## What you liked ?
 This was a week with some exercises I didn't do before. The kubernetes, vault, consul exercise with google cloud was challenging. Turned out eventually the code used is to old to successfully complete the exercise. This will be solved by the education team
