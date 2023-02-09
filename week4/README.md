@@ -164,7 +164,7 @@ Couldn't finish because I don't have a Vsphere environment
 
 Same as we did in week 3
 
-# https://developer.hashicorp.com/onboarding/tfcb-week-4/kubernetes-provider
+# Manage Kubernetes Resources via Terraform
 #### https://developer.hashicorp.com/onboarding/tfcb-week-4/kubernetes-provider
 
 Nginx is available on the local kubernetes cluster  
