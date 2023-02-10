@@ -38,3 +38,39 @@ Terraform cloud and Vault exercise was great to see. How vault created temporary
 
 ## What was wow ?
 Don't expect the exercises will work. They could fail because of new versions or changes in providers or the clouds itself.  
+
+# learn_tfcb
+# Week 4
+[Week4](week4/README.md)
+
+## What you liked ?
+This is one of the hardest weeks so far get through. There are a lot of things that don't work anymore because of different reasons like
+
+- Kubernetes is a higher version then expected
+- The consul version needed to be upgraded
+- Other things not working where the education team will be looking at. 
+
+## What was new to you ?
+Vault and Consul options and usage along with Terraform. 
+
+## What was wow ?
+Need to come back to a few tasks for different reasons
+
+- Codify Management of Vault Enterprise Using Terraform - Need to have a look with Daniela because of Vault Enterprise usage.
+- Approle with Terraform and Chef - didn't work. Education team is taking a look
+- Manage VMs and Snapshots on vSphere  - Do not have a vSphere environment
+- Deploy Applications with the Helm Provider - Final step not possible. Slack doesn't allow this. Everything before that worked. 
+- Automate Monitoring with the Terraform Datadog Provider - Some Error where the education team will take a look
+
+# learn_tfcb
+# Week 5
+[Week4](week5/README.md)
+
+## What you liked ?
+Some Terraform things you don't do every day and practice it again. 
+
+## What was new to you ?
+The Terraform plan/apply -refresh-only command made things more clear with the exercises
+
+## What was wow ?
+Big difference with the exercises from week 4
