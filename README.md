@@ -64,7 +64,7 @@ Need to come back to a few tasks for different reasons
 
 # learn_tfcb
 # Week 5
-[Week4](week5/README.md)
+[Week5](week5/README.md)
 
 ## What you liked ?
 Some Terraform things you don't do every day and practice it again. 
@@ -74,3 +74,19 @@ The Terraform plan/apply -refresh-only command made things more clear with the e
 
 ## What was wow ?
 Big difference with the exercises from week 4
+
+# learn_tfcb
+# Week 6
+[Week6](week6/README.md)
+
+## What you liked ?
+Using CircleCI was fun because I had a demo with CircleCI just last week at CfgMgmt Camp. It was almost the same exercise and because I knew a bit more I could sidestep the issues I had because of the AWS credentials. 
+
+The github actions was great. Had no idea this was possible and doing the exercise didn't work out of the box. There was an issue in the yaml file but was able to change it and get it working. Created a issue with solution on the original repo. 
+
+## What was new to you ?
+Github Actions
+
+## What was wow ?
+Seeing the Github actions work
+
