@@ -175,10 +175,7 @@ Nginx is available on the local kubernetes cluster
  
 Not able to do the final steps as slack doesn't allow me to install this 
 
-export TF_VAR_slack_app_token="1password"
-
-
-Had to alter the following
+export TF_VAR_slack_app_token=".........."
 
 # Retrieve EKS cluster configuration
 data "aws_eks_cluster" "cluster" {
