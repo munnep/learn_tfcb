@@ -233,5 +233,15 @@ version 1.0 - #1!
 # Host a Static Website with S3 and Cloudflare
 #### https://developer.hashicorp.com/onboarding/tfcb-week-4/cloudflare-static-website
 
+Website up and running  
 
+![](media/20230212110449.png)    
 
+settings work   
+![](media/20230212110756.png)    
+
+Also some page rules which worked
+
+![](media/20230212110926.png)    
+
+This was really great to do and see working. 
