@@ -20,6 +20,8 @@ resource "helm_release" "consul_dc2" {
 In the end got everything working and saw the consul dashboard as was intended
 ![](media/20230124112332.png)    
 
+
+
 # Codify Management of Vault Using Terraform
 #### https://developer.hashicorp.com/onboarding/tfcb-week-4/codify-mgmt-oss
 
@@ -44,10 +46,12 @@ policies               ["admins" "default" "eaas-client"]
 token_meta_username    student
 ```
 
-# Codify Management of Vault Enterprise Using Terraform  - NEED TO RETRY
+# Codify Management of Vault Enterprise Using Terraform
 #### https://developer.hashicorp.com/onboarding/tfcb-week-4/codify-mgmt-enterprise
 
-Getting errors. Need to take a look with Daniela. 
+Needed some help from Daniela to do the exercise and get a Vault Enterprise up and running. Used her Repo and created one for myself with an explanation on how to use https://github.com/munnep/vault_enterprise
+
+With the vagrant box I was able to do the exercise. 
 
 # approle with Terraform and Chef   - NEED TO RETRY
 #### https://developer.hashicorp.com/onboarding/tfcb-week-4/approle-trusted-entities
