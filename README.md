@@ -44,19 +44,25 @@ Don't expect the exercises will work. They could fail because of new versions or
 [Week4](week4/README.md)
 
 ## What you liked ?
+Saw a few things with vault and consul that got me a bit of perspective on these tools. Which I didn't know. 
+
+## What was new to you ?
+Cloudflare exercise was new. Heard Andrii mention it 2 weeks ago for something. Got a DNS registration and did the exercise and understood a bit better why people would use Cloudflare. It has many add-ons you can add. Was fun exercise. 
+
+All the vault and consul exercises were new. 
+
+## What was wow ?
+
 This is one of the hardest weeks so far get through. There are a lot of things that don't work anymore because of different reasons like
 
 - Kubernetes is a higher version then expected
 - The consul version needed to be upgraded
 - Other things not working where the education team will be looking at. 
 
-## What was new to you ?
-Vault and Consul options and usage along with Terraform. 
+Some I was able to find myself and made an update on the repo or with the help of education made a pull request to make some changed to get it working for the next person. Education team is really nice and they are reviewing some exercises because things changed since the writing of some exercises
 
-## What was wow ?
-Need to come back to a few tasks for different reasons
+Need to come back to a few tasks for different reasons. Created an Asana task for this. 
 
-- Codify Management of Vault Enterprise Using Terraform - Need to have a look with Daniela because of Vault Enterprise usage.
 - Approle with Terraform and Chef - didn't work. Education team is taking a look
 - Manage VMs and Snapshots on vSphere  - Do not have a vSphere environment
 - Deploy Applications with the Helm Provider - Final step not possible. Slack doesn't allow this. Everything before that worked. 
@@ -73,7 +79,7 @@ Some Terraform things you don't do every day and practice it again.
 The Terraform plan/apply -refresh-only command made things more clear with the exercises
 
 ## What was wow ?
-Big difference with the exercises from week 4
+Big difference with the exercises from week 4 as this was mainly focused on terraform. 
 
 # learn_tfcb
 # Week 6
@@ -90,3 +96,15 @@ Github Actions
 ## What was wow ?
 Seeing the Github actions work
 
+# learn_tfcb
+# Week 7
+[Week6](week7/README.md)
+
+## What you liked ?
+A small introduction in sentinel
+
+## What was new to you ?
+Nothing
+
+## What was wow?
+You can do a lot with sentinel and checking many things. 
